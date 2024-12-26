@@ -1,3 +1,8 @@
+
+<div style="text-align: center;">
+    <img src="https://i.pinimg.com/originals/59/d9/48/59d94841e3c1672dbf95e8ab198963c3.gif" 
+         width="400px" height="250px">
+</div>
 <h1 align="center">Hi 👋, I'm Ravindu Kalhara</h1>
 <h3 align="center">Passionate IT Student|Exploring the Boundless World of Technology</h3>
 
